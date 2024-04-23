@@ -1,4 +1,7 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am Huantao Li, an undergraduate student in Electrical Engineering at the University of Queensland.
 
+<p align="right">
+    <img src="images/avatar.jpg" alt="My avatar" width="300" height="300">
+</p>

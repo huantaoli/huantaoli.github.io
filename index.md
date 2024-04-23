@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Welcome to my blog! 
+I am Huantao Li, an undergraduate student in Electrical Engineering at the University of Queensland. Here, I will share with you my experiences in learning and practice.  
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+<p align="right">
+    <img src="images/avatar.jpg" alt="My avatar" width="300" height="300">
+</p>
+ 
