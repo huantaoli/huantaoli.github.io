@@ -1,3 +1,5 @@
-# Your blog
+# Hunatao Li's Blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This is the repository for my blog!   
+[Hunatao Li's Blog](https://huantaoli.github.io/)  
+[https://huantaoli.github.io/](https://huantaoli.github.io/)  
