@@ -2,6 +2,11 @@
 
 ESP32 modules, in practical use, may need to connect to different networks. Fixing the wireless SSID and password in advance can be quite limiting. Therefore, we can use "over-the-air configuration technologies" such as Smartconfig, Airkiss, and Bluetooth-assisted networking. Below, I will detail the networking methods for the ESP32.
 
+<div style="text-align: center;">
+    <img src="../images/screen_shot_2016-04-27_at_1.30.27_pm_0.png" alt="1"/>
+</div>
+
+
 ## 1. SoftAP Networking:
 The ESP32 creates a WiFi hotspot (AP mode). Users connect their smartphones to this hotspot and send the WiFi information they wish to connect to the ESP32, including the SSID and password.  
 
