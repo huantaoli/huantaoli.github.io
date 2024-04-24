@@ -3,7 +3,7 @@
 ESP32 modules, in practical use, may need to connect to different networks. Fixing the wireless SSID and password in advance can be quite limiting. Therefore, we can use "over-the-air configuration technologies" such as Smartconfig, Airkiss, and Bluetooth-assisted networking. Below, I will detail the networking methods for the ESP32.
 
 <div style="text-align: center;">
-    <img src="../images/screen_shot_2016-04-27_at_1.30.27_pm_0.png" alt="1"/>
+    <img src="images/screen_shot_2016-04-27_at_1.30.27_pm_0.png" alt="1"/>
 </div>
 
 
